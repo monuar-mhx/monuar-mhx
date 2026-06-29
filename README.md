@@ -1,98 +1,31 @@
-<div align="center">
+# Hi, I'm Monuar Hossain 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Monuar%20Hossain&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+Software Engineer from Bangladesh specializing in **Next.js**, **React**, **Node.js**, **TypeScript**, and **MongoDB**. I enjoy building scalable web applications, clean APIs, and modern user experiences.
 
-<h3>
-Software Engineer • Creator • Explorer
-</h3>
+## Tech Stack
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Code+with+purpose;Build+with+curiosity;Always+learning" />
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,mongodb,postgres,python,docker,git,linux" />
+</p>
 
-</div>
+## GitHub Stats
 
----
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=monuar-mhx&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuar-mhx&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-## 🖤 About Me
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monuar-mhx&theme=github-dark&hide_border=true" />
+</p>
 
-```javascript
-const monuar = {
-  name: "Monuar Hossain",
-  from: "Bangladesh 🇧🇩",
+## Currently
 
-  mindset: [
-    "Keep learning",
-    "Write clean code",
-    "Create meaningful things"
-  ],
+- Building full-stack web applications
+- Learning cloud and system design
+- Contributing to open source
+- Exploring new technologies
 
-  interests: [
-    "Technology",
-    "Open Source",
-    "Modern Web",
-    "Innovation"
-  ]
-};
-```
+## Connect
 
----
-
-<div align="center">
-
-## ⚡ Tech Universe
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python,mongodb,postgres,docker,linux,git&perline=6" />
-
-</div>
-
----
-
-## 🌌 Developer Mindset
-
-> "Simple things beautifully built."
-
-* 🧠 Curious about how things work
-* 🛠️ Love experimenting with new technologies
-* 📚 Always improving skills
-* 🌱 Growing every day
-
----
-
-<div align="center">
-
-## 📊 GitHub
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=monuar-mhx&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuar-mhx&layout=compact&hide_border=true&theme=github_dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monuar-mhx&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Find Me
-
-<a href="https://github.com/monuar-mhx">
-<img src="https://img.shields.io/badge/GitHub-monuar--mhx-000000?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
-
-</div>
+- GitHub: https://github.com/monuar-mhx
